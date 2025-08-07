@@ -1,0 +1,40 @@
+Personal Home Page Forms 
+PHP Hypertext Preprocessor
+
+
+Requisitos do Curso:
+
+- HTML5
+- CSS
+- Lógica de Programação
+
+Funcionamento de linguagem:
+
+- Apache (Interpretador PHP)
+- Fazer coisas a mais por que sua máquina é limitada
+- Transforma o lado do servidor como o maior trabalho dentro de uma comunicação - Server-Side
+- Você vai precisar de um servidor
+- MySQL
+
+Download: Wamp Server Windowns: https://sourceforge.net/projects/wampserver/postdownload
+
+No curso 
+Wamp: https://www.easyphp.org/easyphp-devserver.php (Usei esse)
+Lamp: https://help.ubuntu.com/community/ApacheMySQLPHP
+Mac : https://www.mamp.info/en/downloads/
+
+Editor de texto recomendado:
+https://www.jetbrains.com/phpstorm/download/
+
+Como rodar?
+
+1) Abra o Devserver17
+2) http://127.0.0.1:1111/ ou abre no dashboard
+3) Iniciando os servidores( HTTP Server(Apache)  e Database Server(MySql/MariaDB))
+4) Padrao: C:\Program Files (x86)\EasyPHP-Devserver-17\eds-www\
+5) C:\Program Files (x86)\EasyPHP-Devserver-17\eds-www\meuprojeto\
+6) Seu codigo: http://localhost/meuprojeto/
+
+
+O PHP é uma tecnologia de complemento para o HTML e CSS
+

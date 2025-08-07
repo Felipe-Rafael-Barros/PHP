@@ -1,0 +1,7 @@
+✔️Como o PHP funciona e como instalar corretamente
+✔️ Criação de scripts básicos e lógicos
+✔️ Uso de estruturas como if, switch, for e while
+✔️ Integração entre HTML5 e PHP
+✔️ Manipulação de dados com vetores, matrizes e funções de texto
+✔️ Como colocar seu site no ar usando um servidor profissional
+
