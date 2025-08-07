@@ -52,7 +52,7 @@ Aqui você encontrará todos os meus projetos, exercícios, testes e anotações
 Qualquer dúvida ou sugestão, entre em contato comigo:  
 **Felipe Barros**  
 Email: feliperafaelbarross@gmail.com
-LinkedIn: [[https://www.linkedin.com/in/seu-perfil  ](https://www.linkedin.com/in/felipe-rafael-barros-b2babb280/)]
+LinkedIn: [[Felipe Barros  ](https://www.linkedin.com/in/felipe-rafael-barros-b2babb280/)]
 
 ---
 
